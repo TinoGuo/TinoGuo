@@ -1,17 +1,28 @@
-### Hi there 👋
+**About me**
 
-![](https://github-readme-stats.vercel.app/api?username=TinoGuo)
-<!--
-**TinoGuo/TinoGuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Android Engineer at [Grab](https://www.grab.com/)
 
-Here are some ideas to get you started:
+- 🦀 Flutter follower, Rust Beginner, OpenWrt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything [here](https://github.com/TinoGuo/TinoGuo/issues)
+
+
+| <a href="https://github.com/TinoGuo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TinoGuo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="TinoGuo's github stats" /></a> | <a href="https://github.com/TinoGuo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinoGuo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/TinoGuo/pin_input_text_field">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinoGuo&repo=pin_input_text_field&theme=buefy" />
+</a>
+<a href="https://github.com/TinoGuo/loading_indicator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinoGuo&repo=loading_indicator&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://tinocheng.app">
+  <img align="right" alt="Tino Guo | Twitter" width="108px" src="https://avatars.githubusercontent.com/u/4519784?v=4" />
+</a>
