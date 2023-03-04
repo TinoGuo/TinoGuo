@@ -1,6 +1,6 @@
 **About me**
 
-- 💼 Android Engineer at [Grab](https://www.grab.com/)
+- 💼 Android Engineer
 
 - 🦀 Flutter follower, Rust Beginner, OpenWrt
 
